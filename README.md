@@ -31,11 +31,11 @@ npm run dev
 El proyecto sigue la siguiente estructura de directorios:
 
 ```
-├── imagenes_aqui/
-│       └── ... (archivos de imágenes y videos)
 ├── destino/
 │   └── img/
 │       └── ... (archivos de imágenes y videos procesados)
+├── imagenes_aqui/
+│       └── ... (archivos de imágenes y videos)
 ├── gulpfile.js
 ├── package.json
 └── ...
