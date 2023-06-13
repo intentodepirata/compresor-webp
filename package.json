@@ -1,0 +1,24 @@
+{
+  "name": "compresor_webp",
+  "version": "1.0.0",
+  "description": "Convierte imagenes y videos en version webp y avif, tambien crea version comprimida de jpgs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Antonio Alvarez Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-avif": "^1.1.1",
+    "gulp-cache": "^1.1.3",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-webp": "^4.0.1"
+
+  }
+}
