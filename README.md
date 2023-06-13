@@ -6,7 +6,7 @@ Este proyecto consiste en un compresor de imágenes y videos que convierte los a
 
 Antes de comenzar, asegúrate de tener Node.js y npm (administrador de paquetes de Node.js) instalados en tu sistema. Luego, sigue estos pasos:
 
-1. Clona o descarga el proyecto desde [repositorio]([enlace_al_repositorio](https://github.com/intentodepirata/compresor-webp.git)).
+1. Clona o descarga el proyecto desde [https://github.com/intentodepirata/compresor-webp.git]([enlace_al_repositorio]()).
 2. Navega hasta el directorio del proyecto en tu terminal.
 3. Ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
