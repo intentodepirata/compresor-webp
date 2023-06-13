@@ -10,7 +10,7 @@ function imagenes(done) {
   const opciones = {
     optimizationLevel: 3,
   };
-  src("src/img/**/*.{jpg,png}")
+  src("imagenes_aqui/*.{jpg,png}")
     .pipe(cache(imagemin(opciones)))
     .pipe(dest("destino/img"));
 
